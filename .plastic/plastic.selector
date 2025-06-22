@@ -1,0 +1,4 @@
+repository "Simulador Gacha/Simulador Gacha@4672948273304@cloud"
+  path "/"
+    br "/main"
+    co "/main"
